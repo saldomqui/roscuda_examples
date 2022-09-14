@@ -1,0 +1,4 @@
+<launch>
+  <node pkg="ros_cuda_example" type="ros_cuda_example_node" name="ros_cuda_example" output="screen" respawn="false" >
+  </node>
+</launch>
